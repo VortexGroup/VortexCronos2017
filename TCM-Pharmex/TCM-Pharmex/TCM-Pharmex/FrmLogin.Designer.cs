@@ -136,7 +136,7 @@
             // lblesqas
             // 
             this.lblesqas.AutoSize = true;
-            this.lblesqas.Font = new System.Drawing.Font("Arial Narrow", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblesqas.Font = new System.Drawing.Font("Arial Narrow", 8.25F, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblesqas.ForeColor = System.Drawing.Color.Blue;
             this.lblesqas.Location = new System.Drawing.Point(349, 169);
             this.lblesqas.Name = "lblesqas";

@@ -16,7 +16,7 @@ namespace TCM_Pharmex
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmLogin());
+            Application.Run(new FrmConfig());
         }
     }
 }
